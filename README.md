@@ -4,13 +4,6 @@
   </a>
 </div>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=FranciscoDev44.FranciscoDev44&"  />
-</div>
-
-###
 
 <h1 data-importer="text" align="center">Francisco Gabriel</h1>
 
